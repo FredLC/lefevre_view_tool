@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Practice gem created in Devcamp tutorials.}
   spec.description   = %q{Generates HTML data for Rails applications.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/FredLC/lefevre_view_tool"
   spec.license       = "MIT"
 
 
